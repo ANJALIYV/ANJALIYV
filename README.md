@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anjali (3rd Year Engg. Student)
 - 👀 I’m passionate about continuous learning and staying ahead of tech trends.
-- 🌱 I’m currently learning Web Development.
+- 🌱 I’m currently learning in the domain of Web Development.
 - 💞️ I’m looking to collaborate on different projects.
 - 👀 Always exploring new technologies and expanding skillset.
 - 📚 Lifelong learner with a curiosity for exploring new technologies and methodologies.
